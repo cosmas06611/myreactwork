@@ -4,7 +4,7 @@ const players = [
     {
       name: 'Cristiano Ronaldo',
       team: 'Manchester United',
-      nationality: 'Portuguese',
+      nationality: 'Portugal',
       jerseyNumber: 7,
       age: 36,
       imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkFFVGJeU1caNna5KWD17Ul0BqoKLsq_BYsw&usqp=CAU',
@@ -12,7 +12,7 @@ const players = [
     {
       name: 'Lionel Messi',
       team: 'Paris Saint-Germain',
-      nationality: 'Argentine',
+      nationality: 'Argentina',
       jerseyNumber: 30,
       age: 34,
       imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0JFJEQJ-U8HzHGh1H2rEzsiAvlXHLzH6xWIHytjWabC1xxd6k0_tnqIp9sYfWfmK2SMA&usqp=CAU',
